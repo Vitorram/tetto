@@ -1,0 +1,4 @@
+12345,João Silva,1000.0
+888,Anna Lippi,20000.0
+1807,Vitor Ramos,30000.0
+
